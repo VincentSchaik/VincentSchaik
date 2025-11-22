@@ -38,7 +38,7 @@ I'm a passionate software developer with a love for creating elegant solutions t
 
 - GitHub: [@VincentSchaik](https://github.com/VincentSchaik)
 - LinkedIn: [Connect with me](https://linkedin.com/in/vincentschaik)
-- Email: vincent.schaik@example.com
+- Feel free to open an issue or reach out through GitHub!
 
 ## ⚡ Fun Facts
 
